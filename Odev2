@@ -1,0 +1,167 @@
+  static void Main(string[] args)
+        {
+            // Soru1();
+            // Soru2();
+            Soru3();
+        }
+
+        static void Soru1()
+        {
+            Console.WriteLine("Lütfen 20 adet sayı giriniz");
+            ArrayList primaryNumberList = new ArrayList();
+            ArrayList numberList = new ArrayList();
+            int say = 0;
+            for (int i = 0; i < 20 + say; i++)
+            {
+                // int a = int.TryParse(Console.ReadLine());
+                if (int.TryParse(Console.ReadLine(), out int res))
+                {
+                    if (res > 0)
+                    {
+                        for (int k = 2; k < res; k++)
+                        {
+                            if (res % k == 0)
+                            {
+
+                                numberList.Add(res);
+                                break;
+                            }
+                            else
+                            {
+                                primaryNumberList.Add(res);
+                                break;
+                            }
+                        }
+                    }
+                    else
+                    {
+                        say++;
+                        Console.WriteLine("Lütfen 0 dan büyük bir sayı giriniz");
+                    }
+
+                }
+                else
+                {
+                    say++;
+                    Console.WriteLine("Lütfen 0 dan büyük bir sayı giriniz");
+                }
+            }
+            primaryNumberList.Sort();
+            numberList.Sort();
+            Console.WriteLine("********");
+            int primaryNumberAvg = GetAvg(primaryNumberList);
+            int numberAvg = GetAvg(numberList);
+            primaryNumberList.Reverse();
+            numberList.Reverse();
+
+
+            foreach (int item in primaryNumberList)
+            {
+                Console.Write(item + " ");
+            }
+            Console.WriteLine("********");
+
+            foreach (int item in numberList)
+            {
+                Console.Write(item + " ");
+            }
+            Console.WriteLine("********");
+            Console.WriteLine("Asal sayıların eleman sayısı : {0} ve bu dizinin ortalaması: {1}", primaryNumberList.Count, primaryNumberAvg);
+            Console.WriteLine("Asal olmayan sayıların eleman sayısı : {0} ve bu dizinin ortalaması: {1}", numberList.Count, numberAvg);
+
+        }
+
+        static int GetAvg(ArrayList list)
+        {
+            int sum = 0;
+            if (list.Count > 0)
+            {
+                foreach (int item in list)
+                {
+                    sum += item;
+                }
+                return (sum / list.Count);
+            }
+            else
+            {
+
+                return sum;
+            }
+
+        }
+        /*"Soru - 2: Klavyeden girilen 20 adet sayının en büyük 3 tanesi ve en küçük 3 tanesi bulan, her iki grubun kendi içerisinde ortalamalarını alan ve bu ortalamaları ve ortalama toplamlarını console'a yazdıran programı yazınız. (Array sınıfını kullanarak yazınız.)"*/
+        static void Soru2()
+        {
+            Console.WriteLine("Lütfen 20 adet sayı giriniz");
+            // ArrayList primaryNumberList = new ArrayList();
+            ArrayList numberList = new ArrayList();
+            int say = 0;
+            for (int i = 0; i < 6 + say; i++)
+            {
+                // int a = int.TryParse(Console.ReadLine());
+                if (int.TryParse(Console.ReadLine(), out int res))
+                {
+                    numberList.Add(res);
+                }
+                else
+                {
+                    say++;
+                    Console.WriteLine("Lütfen  bir sayı giriniz");
+                }
+            }
+            numberList.Sort();
+            ArrayList numberMaxList = new ArrayList();
+            ArrayList numberMinList = new ArrayList();
+            numberList.Reverse();
+            Console.Write("Klavyeden girilen 20 adet sayının en büyük 3 tanesi ");
+            for (int i = 0; i < 3; i++)
+            {
+                numberMaxList.Add(numberList[i]);
+                Console.Write(" {0} ", numberList[i]);
+
+            }
+            int maxNumber = GetAvg(numberMaxList);
+            Console.Write("ve bu sayıların ortalaması :{0} ", maxNumber);
+            Console.WriteLine(" ");
+            numberList.Sort();
+            Console.WriteLine("Klavyeden girilen 20 adet sayının en küçük 3 tanesi  ");
+
+            for (int i = 0; i < 3; i++)
+            {
+                numberMinList.Add(numberList[i]);
+                Console.Write(" {0} ", numberList[i]);
+
+            }
+            int minNumber = GetAvg(numberMinList);
+            Console.Write("ve bu sayıların ortalaması :{0} ", minNumber);
+            Console.WriteLine(" ");
+            Console.Write("Bu iki sayının grubunun ortalaması :{0} ", (minNumber + maxNumber) / 2);
+        }
+        // "Soru - 3: Klavyeden girilen cümle içerisindeki sesli harfleri bir dizi içerisinde saklayan ve dizinin elemanlarını sıralayan programı yazınız."*/
+        static void Soru3()
+        {
+            Console.WriteLine("Lütfen bir cümle giriniz");
+            ArrayList arr = new ArrayList();
+            ArrayList arr2 = new ArrayList() { 'a', 'e', 'i', 'ı', 'o', 'ö', 'u', 'ü', 'A', 'E', 'İ', 'I', 'O', 'Ö', 'U', 'Ü' };
+
+
+            foreach (char item in Console.ReadLine())
+            {
+                if (arr2.Contains(item))
+                {
+                    if (!arr.Contains(item))
+                    {
+
+                        arr.Add(item);
+                    }
+                }
+            }
+            arr.Sort();
+            foreach (char item in arr)
+            {
+                Console.Write(item + " ");
+            }
+
+        }
+
+    }
