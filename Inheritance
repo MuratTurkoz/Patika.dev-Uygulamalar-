@@ -1,0 +1,81 @@
+class Plants : LivingThings
+{
+    protected void Photosynthesis()
+    {
+        Console.WriteLine("Plants are Photosynthesis");
+    }
+}
+class SeedPlants : Plants
+{
+    public SeedPlants()
+    {
+        base.Photosynthesis();
+    }
+    public void PropagationBySeed()
+    {
+        Console.WriteLine("SeedPlants are PropagationBySeed");
+    }
+}
+
+
+class LivingThings
+{
+    public void Nutrition()
+    {
+        Console.WriteLine("LivingThings are Nutrition");
+    }
+    public void Respiratory()
+    {
+        Console.WriteLine("LivingThings are Respiratory");
+    }
+    public void Excretion()
+    {
+        Console.WriteLine("LivingThings are Excretion");
+
+    }
+}
+
+
+class Animals : LivingThings
+{
+    public void Adaption()
+    {
+        Console.WriteLine("Animals are Adaption");
+        // Console.WriteLine();
+    }
+}
+class Reptiles : Animals
+{
+
+}
+class Birds : Animals
+{
+    public void Fly()
+    {
+        Console.WriteLine("Birds are fly");
+    }
+}
+
+
+namespace Ders_24_OOP_Inheritance
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+
+            SeedPlants seedPlants = new SeedPlants();
+            seedPlants.Respiratory();
+            seedPlants.Excretion();
+            seedPlants.Nutrition();
+            
+            Birds birds = new Birds();
+            birds.Adaption();
+            birds.Excretion();
+            birds.Fly();
+            birds.Nutrition();
+            birds.Respiratory();
+
+        }
+    }
+}
