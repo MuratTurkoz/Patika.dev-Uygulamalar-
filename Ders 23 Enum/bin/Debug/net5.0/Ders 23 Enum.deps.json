@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ders 23 Enum/1.0.0": {
+        "runtime": {
+          "Ders 23 Enum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ders 23 Enum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

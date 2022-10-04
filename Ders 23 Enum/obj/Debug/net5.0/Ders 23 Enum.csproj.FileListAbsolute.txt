@@ -1,0 +1,16 @@
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 23 Enum\bin\Debug\net5.0\Ders 23 Enum.exe
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 23 Enum\bin\Debug\net5.0\Ders 23 Enum.deps.json
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 23 Enum\bin\Debug\net5.0\Ders 23 Enum.runtimeconfig.json
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 23 Enum\bin\Debug\net5.0\Ders 23 Enum.runtimeconfig.dev.json
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 23 Enum\bin\Debug\net5.0\Ders 23 Enum.dll
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 23 Enum\bin\Debug\net5.0\Ders 23 Enum.pdb
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 23 Enum\obj\Debug\net5.0\Ders 23 Enum.csproj.AssemblyReference.cache
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 23 Enum\obj\Debug\net5.0\Ders 23 Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 23 Enum\obj\Debug\net5.0\Ders 23 Enum.AssemblyInfoInputs.cache
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 23 Enum\obj\Debug\net5.0\Ders 23 Enum.AssemblyInfo.cs
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 23 Enum\obj\Debug\net5.0\Ders 23 Enum.csproj.CoreCompileInputs.cache
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 23 Enum\obj\Debug\net5.0\Ders 23 Enum.dll
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 23 Enum\obj\Debug\net5.0\refint\Ders 23 Enum.dll
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 23 Enum\obj\Debug\net5.0\Ders 23 Enum.pdb
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 23 Enum\obj\Debug\net5.0\Ders 23 Enum.genruntimeconfig.cache
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 23 Enum\obj\Debug\net5.0\ref\Ders 23 Enum.dll

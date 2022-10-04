@@ -1,0 +1,16 @@
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 24 OOP Inheritance\bin\Debug\net5.0\Ders 24 OOP Inheritance.exe
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 24 OOP Inheritance\bin\Debug\net5.0\Ders 24 OOP Inheritance.deps.json
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 24 OOP Inheritance\bin\Debug\net5.0\Ders 24 OOP Inheritance.runtimeconfig.json
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 24 OOP Inheritance\bin\Debug\net5.0\Ders 24 OOP Inheritance.runtimeconfig.dev.json
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 24 OOP Inheritance\bin\Debug\net5.0\Ders 24 OOP Inheritance.dll
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 24 OOP Inheritance\bin\Debug\net5.0\Ders 24 OOP Inheritance.pdb
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 24 OOP Inheritance\obj\Debug\net5.0\Ders 24 OOP Inheritance.csproj.AssemblyReference.cache
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 24 OOP Inheritance\obj\Debug\net5.0\Ders 24 OOP Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 24 OOP Inheritance\obj\Debug\net5.0\Ders 24 OOP Inheritance.AssemblyInfoInputs.cache
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 24 OOP Inheritance\obj\Debug\net5.0\Ders 24 OOP Inheritance.AssemblyInfo.cs
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 24 OOP Inheritance\obj\Debug\net5.0\Ders 24 OOP Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 24 OOP Inheritance\obj\Debug\net5.0\Ders 24 OOP Inheritance.dll
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 24 OOP Inheritance\obj\Debug\net5.0\refint\Ders 24 OOP Inheritance.dll
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 24 OOP Inheritance\obj\Debug\net5.0\Ders 24 OOP Inheritance.pdb
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 24 OOP Inheritance\obj\Debug\net5.0\Ders 24 OOP Inheritance.genruntimeconfig.cache
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 24 OOP Inheritance\obj\Debug\net5.0\ref\Ders 24 OOP Inheritance.dll
