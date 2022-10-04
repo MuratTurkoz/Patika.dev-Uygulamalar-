@@ -1,0 +1,15 @@
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 7 For Loop\bin\Debug\net6.0\Ders 7 For Loop.exe
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 7 For Loop\bin\Debug\net6.0\Ders 7 For Loop.deps.json
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 7 For Loop\bin\Debug\net6.0\Ders 7 For Loop.runtimeconfig.json
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 7 For Loop\bin\Debug\net6.0\Ders 7 For Loop.dll
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 7 For Loop\bin\Debug\net6.0\Ders 7 For Loop.pdb
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 7 For Loop\obj\Debug\net6.0\Ders 7 For Loop.csproj.AssemblyReference.cache
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 7 For Loop\obj\Debug\net6.0\Ders 7 For Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 7 For Loop\obj\Debug\net6.0\Ders 7 For Loop.AssemblyInfoInputs.cache
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 7 For Loop\obj\Debug\net6.0\Ders 7 For Loop.AssemblyInfo.cs
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 7 For Loop\obj\Debug\net6.0\Ders 7 For Loop.csproj.CoreCompileInputs.cache
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 7 For Loop\obj\Debug\net6.0\Ders 7 For Loop.dll
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 7 For Loop\obj\Debug\net6.0\refint\Ders 7 For Loop.dll
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 7 For Loop\obj\Debug\net6.0\Ders 7 For Loop.pdb
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 7 For Loop\obj\Debug\net6.0\Ders 7 For Loop.genruntimeconfig.cache
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 7 For Loop\obj\Debug\net6.0\ref\Ders 7 For Loop.dll

@@ -1,0 +1,15 @@
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 10 Array Sınıfı\bin\Debug\net6.0\Ders 10 Array Sınıfı.exe
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 10 Array Sınıfı\bin\Debug\net6.0\Ders 10 Array Sınıfı.deps.json
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 10 Array Sınıfı\bin\Debug\net6.0\Ders 10 Array Sınıfı.runtimeconfig.json
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 10 Array Sınıfı\bin\Debug\net6.0\Ders 10 Array Sınıfı.dll
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 10 Array Sınıfı\bin\Debug\net6.0\Ders 10 Array Sınıfı.pdb
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 10 Array Sınıfı\obj\Debug\net6.0\Ders 10 Array Sınıfı.csproj.AssemblyReference.cache
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 10 Array Sınıfı\obj\Debug\net6.0\Ders 10 Array Sınıfı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 10 Array Sınıfı\obj\Debug\net6.0\Ders 10 Array Sınıfı.AssemblyInfoInputs.cache
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 10 Array Sınıfı\obj\Debug\net6.0\Ders 10 Array Sınıfı.AssemblyInfo.cs
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 10 Array Sınıfı\obj\Debug\net6.0\Ders 10 Array Sınıfı.csproj.CoreCompileInputs.cache
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 10 Array Sınıfı\obj\Debug\net6.0\Ders 10 Array Sınıfı.dll
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 10 Array Sınıfı\obj\Debug\net6.0\refint\Ders 10 Array Sınıfı.dll
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 10 Array Sınıfı\obj\Debug\net6.0\Ders 10 Array Sınıfı.pdb
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 10 Array Sınıfı\obj\Debug\net6.0\Ders 10 Array Sınıfı.genruntimeconfig.cache
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 10 Array Sınıfı\obj\Debug\net6.0\ref\Ders 10 Array Sınıfı.dll
