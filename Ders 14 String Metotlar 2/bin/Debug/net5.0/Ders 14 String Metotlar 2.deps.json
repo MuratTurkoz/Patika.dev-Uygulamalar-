@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ders 14 String Metotlar 2/1.0.0": {
+        "runtime": {
+          "Ders 14 String Metotlar 2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ders 14 String Metotlar 2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

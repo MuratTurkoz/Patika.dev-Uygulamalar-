@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3MWnBdLSRa1qHX/6VaGqcUHgCqa/tBTvqGWE+Q8KvZcrw3mWUrbSyK2yxPiPhF+OMZlqDxYvBZ4HvidctzjZSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\murat\\Desktop\\Patika.Dev\\C# 101\\Ders 15 Generic List\\Ders 15 Generic List.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\murat\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

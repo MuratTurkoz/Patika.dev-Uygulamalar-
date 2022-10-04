@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i2DRID98mMJ93tl9Cv4AeG0h9qAtBRq0lDvc8ByiBaOTJ13vqg30tovVJbqEEfD3Gw5BZN21Ege0+fQbS+PUMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\murat\\Desktop\\Patika.Dev\\C# 101\\Ders 14 String Metotlar 2\\Ders 14 String Metotlar 2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\murat\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

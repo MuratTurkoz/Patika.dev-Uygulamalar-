@@ -1,0 +1,16 @@
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 16 ArrayList\bin\Debug\net5.0\Ders 16 ArrayList.exe
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 16 ArrayList\bin\Debug\net5.0\Ders 16 ArrayList.deps.json
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 16 ArrayList\bin\Debug\net5.0\Ders 16 ArrayList.runtimeconfig.json
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 16 ArrayList\bin\Debug\net5.0\Ders 16 ArrayList.runtimeconfig.dev.json
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 16 ArrayList\bin\Debug\net5.0\Ders 16 ArrayList.dll
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 16 ArrayList\bin\Debug\net5.0\Ders 16 ArrayList.pdb
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 16 ArrayList\obj\Debug\net5.0\Ders 16 ArrayList.csproj.AssemblyReference.cache
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 16 ArrayList\obj\Debug\net5.0\Ders 16 ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 16 ArrayList\obj\Debug\net5.0\Ders 16 ArrayList.AssemblyInfoInputs.cache
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 16 ArrayList\obj\Debug\net5.0\Ders 16 ArrayList.AssemblyInfo.cs
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 16 ArrayList\obj\Debug\net5.0\Ders 16 ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 16 ArrayList\obj\Debug\net5.0\Ders 16 ArrayList.dll
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 16 ArrayList\obj\Debug\net5.0\refint\Ders 16 ArrayList.dll
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 16 ArrayList\obj\Debug\net5.0\Ders 16 ArrayList.pdb
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 16 ArrayList\obj\Debug\net5.0\Ders 16 ArrayList.genruntimeconfig.cache
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 16 ArrayList\obj\Debug\net5.0\ref\Ders 16 ArrayList.dll
