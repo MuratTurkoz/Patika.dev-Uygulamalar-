@@ -1,0 +1,15 @@
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 11 Metot Tanımlama\bin\Debug\net6.0\Ders 11 Metot Tanımlama.exe
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 11 Metot Tanımlama\bin\Debug\net6.0\Ders 11 Metot Tanımlama.deps.json
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 11 Metot Tanımlama\bin\Debug\net6.0\Ders 11 Metot Tanımlama.runtimeconfig.json
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 11 Metot Tanımlama\bin\Debug\net6.0\Ders 11 Metot Tanımlama.dll
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 11 Metot Tanımlama\bin\Debug\net6.0\Ders 11 Metot Tanımlama.pdb
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 11 Metot Tanımlama\obj\Debug\net6.0\Ders 11 Metot Tanımlama.csproj.AssemblyReference.cache
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 11 Metot Tanımlama\obj\Debug\net6.0\Ders 11 Metot Tanımlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 11 Metot Tanımlama\obj\Debug\net6.0\Ders 11 Metot Tanımlama.AssemblyInfoInputs.cache
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 11 Metot Tanımlama\obj\Debug\net6.0\Ders 11 Metot Tanımlama.AssemblyInfo.cs
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 11 Metot Tanımlama\obj\Debug\net6.0\Ders 11 Metot Tanımlama.csproj.CoreCompileInputs.cache
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 11 Metot Tanımlama\obj\Debug\net6.0\Ders 11 Metot Tanımlama.dll
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 11 Metot Tanımlama\obj\Debug\net6.0\refint\Ders 11 Metot Tanımlama.dll
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 11 Metot Tanımlama\obj\Debug\net6.0\Ders 11 Metot Tanımlama.pdb
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 11 Metot Tanımlama\obj\Debug\net6.0\Ders 11 Metot Tanımlama.genruntimeconfig.cache
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 11 Metot Tanımlama\obj\Debug\net6.0\ref\Ders 11 Metot Tanımlama.dll

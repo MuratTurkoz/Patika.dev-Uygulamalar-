@@ -1,0 +1,15 @@
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 12 Rekürsif ve Extension Metotlar\bin\Debug\net6.0\Ders 12 Rekürsif ve Extension Metotlar.exe
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 12 Rekürsif ve Extension Metotlar\bin\Debug\net6.0\Ders 12 Rekürsif ve Extension Metotlar.deps.json
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 12 Rekürsif ve Extension Metotlar\bin\Debug\net6.0\Ders 12 Rekürsif ve Extension Metotlar.runtimeconfig.json
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 12 Rekürsif ve Extension Metotlar\bin\Debug\net6.0\Ders 12 Rekürsif ve Extension Metotlar.dll
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 12 Rekürsif ve Extension Metotlar\bin\Debug\net6.0\Ders 12 Rekürsif ve Extension Metotlar.pdb
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 12 Rekürsif ve Extension Metotlar\obj\Debug\net6.0\Ders 12 Rekürsif ve Extension Metotlar.csproj.AssemblyReference.cache
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 12 Rekürsif ve Extension Metotlar\obj\Debug\net6.0\Ders 12 Rekürsif ve Extension Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 12 Rekürsif ve Extension Metotlar\obj\Debug\net6.0\Ders 12 Rekürsif ve Extension Metotlar.AssemblyInfoInputs.cache
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 12 Rekürsif ve Extension Metotlar\obj\Debug\net6.0\Ders 12 Rekürsif ve Extension Metotlar.AssemblyInfo.cs
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 12 Rekürsif ve Extension Metotlar\obj\Debug\net6.0\Ders 12 Rekürsif ve Extension Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 12 Rekürsif ve Extension Metotlar\obj\Debug\net6.0\Ders 12 Rekürsif ve Extension Metotlar.dll
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 12 Rekürsif ve Extension Metotlar\obj\Debug\net6.0\refint\Ders 12 Rekürsif ve Extension Metotlar.dll
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 12 Rekürsif ve Extension Metotlar\obj\Debug\net6.0\Ders 12 Rekürsif ve Extension Metotlar.pdb
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 12 Rekürsif ve Extension Metotlar\obj\Debug\net6.0\Ders 12 Rekürsif ve Extension Metotlar.genruntimeconfig.cache
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 12 Rekürsif ve Extension Metotlar\obj\Debug\net6.0\ref\Ders 12 Rekürsif ve Extension Metotlar.dll
