@@ -1,0 +1,15 @@
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 8 While Foreach\bin\Debug\net6.0\Ders 8 While Foreach.exe
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 8 While Foreach\bin\Debug\net6.0\Ders 8 While Foreach.deps.json
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 8 While Foreach\bin\Debug\net6.0\Ders 8 While Foreach.runtimeconfig.json
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 8 While Foreach\bin\Debug\net6.0\Ders 8 While Foreach.dll
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 8 While Foreach\bin\Debug\net6.0\Ders 8 While Foreach.pdb
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 8 While Foreach\obj\Debug\net6.0\Ders 8 While Foreach.csproj.AssemblyReference.cache
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 8 While Foreach\obj\Debug\net6.0\Ders 8 While Foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 8 While Foreach\obj\Debug\net6.0\Ders 8 While Foreach.AssemblyInfoInputs.cache
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 8 While Foreach\obj\Debug\net6.0\Ders 8 While Foreach.AssemblyInfo.cs
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 8 While Foreach\obj\Debug\net6.0\Ders 8 While Foreach.csproj.CoreCompileInputs.cache
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 8 While Foreach\obj\Debug\net6.0\Ders 8 While Foreach.dll
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 8 While Foreach\obj\Debug\net6.0\refint\Ders 8 While Foreach.dll
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 8 While Foreach\obj\Debug\net6.0\Ders 8 While Foreach.pdb
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 8 While Foreach\obj\Debug\net6.0\Ders 8 While Foreach.genruntimeconfig.cache
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 8 While Foreach\obj\Debug\net6.0\ref\Ders 8 While Foreach.dll

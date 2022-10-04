@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ders 8 While Foreach/1.0.0": {
+        "runtime": {
+          "Ders 8 While Foreach.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ders 8 While Foreach/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

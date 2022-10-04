@@ -1,0 +1,15 @@
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 6 Switch-Case\bin\Debug\net6.0\Ders 6 Switch-Case.exe
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 6 Switch-Case\bin\Debug\net6.0\Ders 6 Switch-Case.deps.json
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 6 Switch-Case\bin\Debug\net6.0\Ders 6 Switch-Case.runtimeconfig.json
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 6 Switch-Case\bin\Debug\net6.0\Ders 6 Switch-Case.dll
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 6 Switch-Case\bin\Debug\net6.0\Ders 6 Switch-Case.pdb
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 6 Switch-Case\obj\Debug\net6.0\Ders 6 Switch-Case.csproj.AssemblyReference.cache
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 6 Switch-Case\obj\Debug\net6.0\Ders 6 Switch-Case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 6 Switch-Case\obj\Debug\net6.0\Ders 6 Switch-Case.AssemblyInfoInputs.cache
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 6 Switch-Case\obj\Debug\net6.0\Ders 6 Switch-Case.AssemblyInfo.cs
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 6 Switch-Case\obj\Debug\net6.0\Ders 6 Switch-Case.csproj.CoreCompileInputs.cache
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 6 Switch-Case\obj\Debug\net6.0\Ders 6 Switch-Case.dll
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 6 Switch-Case\obj\Debug\net6.0\refint\Ders 6 Switch-Case.dll
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 6 Switch-Case\obj\Debug\net6.0\Ders 6 Switch-Case.pdb
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 6 Switch-Case\obj\Debug\net6.0\Ders 6 Switch-Case.genruntimeconfig.cache
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 6 Switch-Case\obj\Debug\net6.0\ref\Ders 6 Switch-Case.dll

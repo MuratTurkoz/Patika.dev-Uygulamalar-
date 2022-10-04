@@ -1,0 +1,15 @@
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 5 Else&if\bin\Debug\net6.0\Ders 5 Else&if.exe
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 5 Else&if\bin\Debug\net6.0\Ders 5 Else&if.deps.json
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 5 Else&if\bin\Debug\net6.0\Ders 5 Else&if.runtimeconfig.json
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 5 Else&if\bin\Debug\net6.0\Ders 5 Else&if.dll
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 5 Else&if\bin\Debug\net6.0\Ders 5 Else&if.pdb
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 5 Else&if\obj\Debug\net6.0\Ders 5 Else&if.csproj.AssemblyReference.cache
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 5 Else&if\obj\Debug\net6.0\Ders 5 Else&if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 5 Else&if\obj\Debug\net6.0\Ders 5 Else&if.AssemblyInfoInputs.cache
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 5 Else&if\obj\Debug\net6.0\Ders 5 Else&if.AssemblyInfo.cs
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 5 Else&if\obj\Debug\net6.0\Ders 5 Else&if.csproj.CoreCompileInputs.cache
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 5 Else&if\obj\Debug\net6.0\Ders 5 Else&if.dll
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 5 Else&if\obj\Debug\net6.0\refint\Ders 5 Else&if.dll
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 5 Else&if\obj\Debug\net6.0\Ders 5 Else&if.pdb
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 5 Else&if\obj\Debug\net6.0\Ders 5 Else&if.genruntimeconfig.cache
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 5 Else&if\obj\Debug\net6.0\ref\Ders 5 Else&if.dll
