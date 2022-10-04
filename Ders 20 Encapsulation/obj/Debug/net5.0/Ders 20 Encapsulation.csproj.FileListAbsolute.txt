@@ -1,0 +1,16 @@
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 20 Encapsulation\bin\Debug\net5.0\Ders 20 Encapsulation.exe
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 20 Encapsulation\bin\Debug\net5.0\Ders 20 Encapsulation.deps.json
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 20 Encapsulation\bin\Debug\net5.0\Ders 20 Encapsulation.runtimeconfig.json
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 20 Encapsulation\bin\Debug\net5.0\Ders 20 Encapsulation.runtimeconfig.dev.json
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 20 Encapsulation\bin\Debug\net5.0\Ders 20 Encapsulation.dll
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 20 Encapsulation\bin\Debug\net5.0\Ders 20 Encapsulation.pdb
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 20 Encapsulation\obj\Debug\net5.0\Ders 20 Encapsulation.csproj.AssemblyReference.cache
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 20 Encapsulation\obj\Debug\net5.0\Ders 20 Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 20 Encapsulation\obj\Debug\net5.0\Ders 20 Encapsulation.AssemblyInfoInputs.cache
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 20 Encapsulation\obj\Debug\net5.0\Ders 20 Encapsulation.AssemblyInfo.cs
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 20 Encapsulation\obj\Debug\net5.0\Ders 20 Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 20 Encapsulation\obj\Debug\net5.0\Ders 20 Encapsulation.dll
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 20 Encapsulation\obj\Debug\net5.0\refint\Ders 20 Encapsulation.dll
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 20 Encapsulation\obj\Debug\net5.0\Ders 20 Encapsulation.pdb
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 20 Encapsulation\obj\Debug\net5.0\Ders 20 Encapsulation.genruntimeconfig.cache
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 20 Encapsulation\obj\Debug\net5.0\ref\Ders 20 Encapsulation.dll

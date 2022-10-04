@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MVRP97K66ZASTgm2Yfff/W9FSJrn3Z+APTD24ChygK52jJcxzVGTo+xc/WKY6k1ebw94M35SiVOX6ctklebQOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\murat\\Desktop\\Patika.Dev\\C# 101\\Ders 21 Static Sınıf ve Üyeler\\Ders 21 Static Sınıf ve Üyeler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\murat\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

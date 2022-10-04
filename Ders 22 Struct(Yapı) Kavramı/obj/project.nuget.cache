@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9iyojdeDwNNJaCFRbfHU3kJpFCw6gshzvUgXbmAOmReJU92oDp+gJoHEp8+W4tDE+F7PHNESCqtXL8N5EXXDkg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\murat\\Desktop\\Patika.Dev\\C# 101\\Ders 22 Struct(Yapı) Kavramı\\Ders 22 Struct(Yapı) Kavramı.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\murat\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

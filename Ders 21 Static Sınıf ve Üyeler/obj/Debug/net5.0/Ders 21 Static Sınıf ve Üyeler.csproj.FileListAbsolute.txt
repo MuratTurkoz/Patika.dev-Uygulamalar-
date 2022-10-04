@@ -1,0 +1,16 @@
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 21 Static Sınıf ve Üyeler\bin\Debug\net5.0\Ders 21 Static Sınıf ve Üyeler.exe
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 21 Static Sınıf ve Üyeler\bin\Debug\net5.0\Ders 21 Static Sınıf ve Üyeler.deps.json
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 21 Static Sınıf ve Üyeler\bin\Debug\net5.0\Ders 21 Static Sınıf ve Üyeler.runtimeconfig.json
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 21 Static Sınıf ve Üyeler\bin\Debug\net5.0\Ders 21 Static Sınıf ve Üyeler.runtimeconfig.dev.json
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 21 Static Sınıf ve Üyeler\bin\Debug\net5.0\Ders 21 Static Sınıf ve Üyeler.dll
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 21 Static Sınıf ve Üyeler\bin\Debug\net5.0\Ders 21 Static Sınıf ve Üyeler.pdb
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 21 Static Sınıf ve Üyeler\obj\Debug\net5.0\Ders 21 Static Sınıf ve Üyeler.csproj.AssemblyReference.cache
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 21 Static Sınıf ve Üyeler\obj\Debug\net5.0\Ders 21 Static Sınıf ve Üyeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 21 Static Sınıf ve Üyeler\obj\Debug\net5.0\Ders 21 Static Sınıf ve Üyeler.AssemblyInfoInputs.cache
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 21 Static Sınıf ve Üyeler\obj\Debug\net5.0\Ders 21 Static Sınıf ve Üyeler.AssemblyInfo.cs
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 21 Static Sınıf ve Üyeler\obj\Debug\net5.0\Ders 21 Static Sınıf ve Üyeler.csproj.CoreCompileInputs.cache
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 21 Static Sınıf ve Üyeler\obj\Debug\net5.0\Ders 21 Static Sınıf ve Üyeler.dll
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 21 Static Sınıf ve Üyeler\obj\Debug\net5.0\refint\Ders 21 Static Sınıf ve Üyeler.dll
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 21 Static Sınıf ve Üyeler\obj\Debug\net5.0\Ders 21 Static Sınıf ve Üyeler.pdb
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 21 Static Sınıf ve Üyeler\obj\Debug\net5.0\Ders 21 Static Sınıf ve Üyeler.genruntimeconfig.cache
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 21 Static Sınıf ve Üyeler\obj\Debug\net5.0\ref\Ders 21 Static Sınıf ve Üyeler.dll

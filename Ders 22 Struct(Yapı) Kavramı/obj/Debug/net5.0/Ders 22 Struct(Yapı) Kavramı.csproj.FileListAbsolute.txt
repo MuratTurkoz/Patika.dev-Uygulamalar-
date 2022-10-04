@@ -1,0 +1,16 @@
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 22 Struct(Yapı) Kavramı\bin\Debug\net5.0\Ders 22 Struct(Yapı) Kavramı.exe
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 22 Struct(Yapı) Kavramı\bin\Debug\net5.0\Ders 22 Struct(Yapı) Kavramı.deps.json
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 22 Struct(Yapı) Kavramı\bin\Debug\net5.0\Ders 22 Struct(Yapı) Kavramı.runtimeconfig.json
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 22 Struct(Yapı) Kavramı\bin\Debug\net5.0\Ders 22 Struct(Yapı) Kavramı.runtimeconfig.dev.json
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 22 Struct(Yapı) Kavramı\bin\Debug\net5.0\Ders 22 Struct(Yapı) Kavramı.dll
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 22 Struct(Yapı) Kavramı\bin\Debug\net5.0\Ders 22 Struct(Yapı) Kavramı.pdb
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 22 Struct(Yapı) Kavramı\obj\Debug\net5.0\Ders 22 Struct(Yapı) Kavramı.csproj.AssemblyReference.cache
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 22 Struct(Yapı) Kavramı\obj\Debug\net5.0\Ders 22 Struct(Yapı) Kavramı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 22 Struct(Yapı) Kavramı\obj\Debug\net5.0\Ders 22 Struct(Yapı) Kavramı.AssemblyInfoInputs.cache
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 22 Struct(Yapı) Kavramı\obj\Debug\net5.0\Ders 22 Struct(Yapı) Kavramı.AssemblyInfo.cs
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 22 Struct(Yapı) Kavramı\obj\Debug\net5.0\Ders 22 Struct(Yapı) Kavramı.csproj.CoreCompileInputs.cache
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 22 Struct(Yapı) Kavramı\obj\Debug\net5.0\Ders 22 Struct(Yapı) Kavramı.dll
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 22 Struct(Yapı) Kavramı\obj\Debug\net5.0\refint\Ders 22 Struct(Yapı) Kavramı.dll
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 22 Struct(Yapı) Kavramı\obj\Debug\net5.0\Ders 22 Struct(Yapı) Kavramı.pdb
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 22 Struct(Yapı) Kavramı\obj\Debug\net5.0\Ders 22 Struct(Yapı) Kavramı.genruntimeconfig.cache
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 22 Struct(Yapı) Kavramı\obj\Debug\net5.0\ref\Ders 22 Struct(Yapı) Kavramı.dll

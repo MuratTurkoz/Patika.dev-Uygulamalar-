@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ders 22 Struct(Yapı) Kavramı/1.0.0": {
+        "runtime": {
+          "Ders 22 Struct(Yapı) Kavramı.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ders 22 Struct(Yapı) Kavramı/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
