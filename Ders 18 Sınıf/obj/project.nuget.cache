@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iig3OLxVKIJ1cPxNZmo3YrZW4650G/bdfe/7gRoJ7+akG8K9qmOuotkWZw55WNMFxl/RF+cbQx65aeWmcXOGVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\murat\\Desktop\\Patika.Dev\\C# 101\\Ders 18 Sınıf\\Ders 18 Sınıf.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\murat\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

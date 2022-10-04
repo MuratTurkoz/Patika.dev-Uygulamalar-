@@ -1,0 +1,16 @@
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 17 Dictionary\bin\Debug\net5.0\Ders 17 Dictionary.exe
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 17 Dictionary\bin\Debug\net5.0\Ders 17 Dictionary.deps.json
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 17 Dictionary\bin\Debug\net5.0\Ders 17 Dictionary.runtimeconfig.json
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 17 Dictionary\bin\Debug\net5.0\Ders 17 Dictionary.runtimeconfig.dev.json
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 17 Dictionary\bin\Debug\net5.0\Ders 17 Dictionary.dll
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 17 Dictionary\bin\Debug\net5.0\Ders 17 Dictionary.pdb
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 17 Dictionary\obj\Debug\net5.0\Ders 17 Dictionary.csproj.AssemblyReference.cache
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 17 Dictionary\obj\Debug\net5.0\Ders 17 Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 17 Dictionary\obj\Debug\net5.0\Ders 17 Dictionary.AssemblyInfoInputs.cache
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 17 Dictionary\obj\Debug\net5.0\Ders 17 Dictionary.AssemblyInfo.cs
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 17 Dictionary\obj\Debug\net5.0\Ders 17 Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 17 Dictionary\obj\Debug\net5.0\Ders 17 Dictionary.dll
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 17 Dictionary\obj\Debug\net5.0\refint\Ders 17 Dictionary.dll
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 17 Dictionary\obj\Debug\net5.0\Ders 17 Dictionary.pdb
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 17 Dictionary\obj\Debug\net5.0\Ders 17 Dictionary.genruntimeconfig.cache
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 17 Dictionary\obj\Debug\net5.0\ref\Ders 17 Dictionary.dll
