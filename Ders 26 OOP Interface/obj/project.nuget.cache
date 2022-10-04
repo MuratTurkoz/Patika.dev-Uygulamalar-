@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "y/vgx/CJpKD6pyhl9/59BPMYZH9/qZP6A6lHCktZeUYpX+a6mEIuCTx8pFs1uJfCq99Boy9KJ/cukkJVnRGujA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\murat\\Desktop\\Patika.Dev\\C# 101\\Ders 26 OOP Interface\\Ders 26 OOP Interface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\murat\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

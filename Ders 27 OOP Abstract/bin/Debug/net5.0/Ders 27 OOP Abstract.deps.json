@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ders 27 OOP Abstract/1.0.0": {
+        "runtime": {
+          "Ders 27 OOP Abstract.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ders 27 OOP Abstract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

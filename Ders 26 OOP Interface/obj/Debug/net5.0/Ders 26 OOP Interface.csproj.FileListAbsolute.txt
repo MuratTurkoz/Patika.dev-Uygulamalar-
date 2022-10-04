@@ -1,0 +1,16 @@
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 26 OOP Interface\bin\Debug\net5.0\Ders 26 OOP Interface.exe
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 26 OOP Interface\bin\Debug\net5.0\Ders 26 OOP Interface.deps.json
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 26 OOP Interface\bin\Debug\net5.0\Ders 26 OOP Interface.runtimeconfig.json
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 26 OOP Interface\bin\Debug\net5.0\Ders 26 OOP Interface.runtimeconfig.dev.json
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 26 OOP Interface\bin\Debug\net5.0\Ders 26 OOP Interface.dll
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 26 OOP Interface\bin\Debug\net5.0\Ders 26 OOP Interface.pdb
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 26 OOP Interface\obj\Debug\net5.0\Ders 26 OOP Interface.csproj.AssemblyReference.cache
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 26 OOP Interface\obj\Debug\net5.0\Ders 26 OOP Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 26 OOP Interface\obj\Debug\net5.0\Ders 26 OOP Interface.AssemblyInfoInputs.cache
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 26 OOP Interface\obj\Debug\net5.0\Ders 26 OOP Interface.AssemblyInfo.cs
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 26 OOP Interface\obj\Debug\net5.0\Ders 26 OOP Interface.csproj.CoreCompileInputs.cache
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 26 OOP Interface\obj\Debug\net5.0\Ders 26 OOP Interface.dll
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 26 OOP Interface\obj\Debug\net5.0\refint\Ders 26 OOP Interface.dll
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 26 OOP Interface\obj\Debug\net5.0\Ders 26 OOP Interface.pdb
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 26 OOP Interface\obj\Debug\net5.0\Ders 26 OOP Interface.genruntimeconfig.cache
+C:\Users\murat\Desktop\Patika.Dev\C# 101\Ders 26 OOP Interface\obj\Debug\net5.0\ref\Ders 26 OOP Interface.dll
